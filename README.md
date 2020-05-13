@@ -3,6 +3,8 @@ Software for Hackster.io project Middle-aged Cinderella
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/maremoto/middle-aged-cinderella/blob/master/LICENSE)
 
+<img src="https://github.com/maremoto/middle-aged-cinderella/blob/master/pinkfoot.png" alt="Cinderella Foot" width=64>
+
 This MicroPython code performs the functionality of the device.
 
 ## Features
